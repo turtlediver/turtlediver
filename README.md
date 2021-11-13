@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm in third year CS at UTM :)
+Hi, I'm in third year CS at UTM =)
+
